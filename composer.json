@@ -1,0 +1,6 @@
+{
+    "name": "julian/app-estacion",
+    "require": {
+        "phpmailer/phpmailer": "6.9"
+    }
+}
